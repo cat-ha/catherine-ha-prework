@@ -1,0 +1,21 @@
+* {
+  background: #79B9C6;
+  text-transform: uppercase;
+}
+
+.border {
+  margin-left: 41%;
+  margin-right: 41%;
+}
+
+.h6 {
+  color: white !important;
+}
+
+.text-center {
+  color: white;
+}
+
+.description {
+  color: black;
+}
