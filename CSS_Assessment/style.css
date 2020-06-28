@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  color: black;
+}
+
+header {
+  background: grey;
+  margin-bottom: 25px;
+}
+
+footer {
+  background: green;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+#left {
+  background: blue;
+  width: 50%;
+  float: left;
+  padding: 15%;
+  text-align: center;
+}
+
+#right {
+  background: red;
+  width: 25%;
+  float: right;
+  padding: 15%;
+  text-align: center;
+}
+
