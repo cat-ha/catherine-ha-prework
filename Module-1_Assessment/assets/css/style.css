@@ -1,5 +1,5 @@
 body, html {
-    height: 100%;
+    height: 110%;
     color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif !important;
     line-height: 1.5 !important;
@@ -38,6 +38,30 @@ button {
     background: #ffffff;
     border-color: #cccccc;
     padding: 3%;
+}
+
+.image .text-block{
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+    padding: 6% 0% 6% 0%;
+    top: 65%;
+    text-align: center;
+    width: 90%; 
+    color: white;
+    background: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.image:hover {
+    position:relative;
+    transition: transform 1s;
+    transform: scale(1.1);
+}
+
+.portfolio-row {
+    padding-bottom: 4%;
 }
 
 .page-footer {
