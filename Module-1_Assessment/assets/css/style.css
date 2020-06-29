@@ -11,6 +11,10 @@ h1 {
     font-size: 24px !important;
 }
 
+button {
+    background: #4aaaa5 !important;
+}
+
 .bg {
     background-image: url("../images/fresh_snow/fresh_snow_@2X.png");
     height: 100%;
